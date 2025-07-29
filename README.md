@@ -103,4 +103,6 @@ Power BI Developer | Data Analyst
 
 📝 License
 This project is for educational and learning purposes.
+
+
 <img width="598" height="332" alt="image" src="https://github.com/user-attachments/assets/68d517e0-7ce4-4d07-98c1-2820e8548069" />
